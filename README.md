@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Sushil Kumar
 - 👀 I’m interested in Web Development
+- 🎓 I,m graduate in Computer Science
+- 💻 I use PHP/Laravel Framework/Mezzio(Laminas) Framework for BackEnd and JS/Angular Framework for FrontEnd
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on FrontEnd Development
+- 💞️ I’m looking to collaborate on FrontEnd Development Projects
 - 📫 How to reach me sushilitdeveloper@gmail.com
 
 <!---
