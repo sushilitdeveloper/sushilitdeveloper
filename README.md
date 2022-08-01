@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sushil Kumar
 - 👀 I’m interested in Web Development
 - 🎓 I'm graduate in Computer Science
-- 💻 I know PHP/Laravel Framework/Mezzio(Laminas) Framework, Django REST Framework, and Express.js for BackEnd and JS, React, and Next.js Framework for FrontEnd
+- 💻 I know PHP/Laravel Framework/Mezzio(Laminas) Framework, Django REST Framework, and Express.js for BackEnd & JS, React, and Next.js Framework for FrontEnd
 - 🌱 I’m currently working as Software Engineer at Quikr India Pvt Ltd
-- 💞️ I’m looking to collaborate on FrontEnd Development Projects
+- 💞️ I’m looking to collaborate on Web Development Projects (Backend: Express.js & FrontEnd: React/Next.js)
 - 📫 How to reach me sushilkumar.cs20@gmail.com (li: https://www.linkedin.com/in/sushilkumarcs20/)
 
 <!---
